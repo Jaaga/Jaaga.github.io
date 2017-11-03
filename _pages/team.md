@@ -54,6 +54,8 @@ team:
 
 {% include org_structured_data.html %}
 
+>_Eventually everything connects – people, ideas, objects. The quality of the connections is the key to quality per se._ - Charles Eames
+
 
 <div class="columns is-multiline is-8">
 

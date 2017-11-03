@@ -9,6 +9,8 @@ permalink: /
 
 {% include org_structured_data.html %}
 
+# Programs and space for creative people
+
 <div class="columns is-multiline">
   <div class="column is-4">
     <figure>
@@ -27,6 +29,5 @@ permalink: /
   </div>
 </div>
 
->_Eventually everything connects – people, ideas, objects. The quality of the connections is the key to quality per se._
-
-<cite>Charles Eames</cite>
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/jaagarnaut" data-widget-id="401763613876027392">Tweets by @jaagarnaut</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
