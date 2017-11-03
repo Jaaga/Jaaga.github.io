@@ -11,6 +11,12 @@ permalink: /startup/pricing/
 published: true
 ---
 
+{% include products_structured_data.html %}
+
+## Sign up today to discover true coworking!
+
+{% include signup_form.html %}
+
 
 |[Day Pass][instamojo-coworking]|INR 300|
 |[1 Week Pass][instamojo-coworking]|INR 1400|

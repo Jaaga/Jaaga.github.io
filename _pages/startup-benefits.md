@@ -8,7 +8,9 @@ permalink: /startup/benefits/
 published: true
 ---
 
-{% include products_structured_data.html %}
+## Sign up today to partner with these amazing companies
+
+{% include signup_form.html %}
 
 |![AWS][aws]|Amazon Web Services - $1000 credit for 1 year|
 |![IBM][IBM]|IBM Bluemix - $1000/month credit for 1 year|

@@ -39,12 +39,6 @@ permalink: /
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
   </div>
   <div class="column is-4">
-      <p class="is-size-5">
-        Write to us at <a href="mailto:hello@jaaga.in">hello@jaaga.in</a> or submit your email address below and we will be in touch very soon.
-      </p>
-      {% include signup_form.html %}
-      <p>
-        Jaaga runs a hybrid business model. Jaaga Startup LLP is a for profit entity that administers our coworking spaces. Profits support Jaaga Trust which is a private charitable trust and looks after our arts and culture initiatives. Please connect if you would like to support either of the two entities.
-      </p>
+      <div class="fb-page" data-href="https://www.facebook.com/jaagastartup/" data-tabs="timeline" data-height="430" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/jaagastartup/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jaagastartup/">Jaaga Startup</a></blockquote></div>
   </div>
 </div>
