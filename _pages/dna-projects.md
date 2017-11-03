@@ -5,7 +5,7 @@ description:
 feature_image: /assets/images/dna-projects.jpg
 tags:
 published: true
-permalink: /dna/projects
+permalink: /dna/projects/
 ---
 
 <div class="kg-card-markdown"><p>Our projects typically connect communities and bring people together to work on urban issues. We bring government, private organisations and individuals together towards positive and productive change. </p>

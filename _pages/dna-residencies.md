@@ -5,7 +5,7 @@ description:
 feature_image: /assets/images/dna-residencies.jpg
 tags:
 published: true
-permalink: /dna/residencies
+permalink: /dna/residencies/
 ---
 
 <div class="kg-card-markdown"><iframe width="640" height="480" src="https://www.youtube.com/embed/FotakFJrhGw" frameborder="0" allowfullscreen></iframe>
