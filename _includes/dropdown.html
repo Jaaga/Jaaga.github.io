@@ -1,0 +1,26 @@
+<div class="navbar-item has-dropdown is-hoverable">
+  <a class="navbar-link is-jaaga-red is-size-4"><b>About</b></a>
+  <div class="navbar-dropdown">
+    <a class="navbar-item is-jaaga-red is-size-5" href="/locations/">Locations</a>
+    <a class="navbar-item is-jaaga-red is-size-5" href="/team/">Crew</a>
+    <a class="navbar-item is-jaaga-red is-size-5" href="/events/">Events</a>
+    <a class="navbar-item is-jaaga-red is-size-5" href="/blog/">Blog</a>
+    <div class="navbar-item is-jaaga-red is-size-5 subtitle">
+      <div class="field is-grouped">
+        {% if site.email %}
+        <a class="button is-white" href="mailto:{{ site.email }}" target="_blank">
+      <span class="icon"><i class="fa fa-envelope"></i></span>
+    </a>&nbsp; {% endif %} {% if site.linkedin %}
+        <a class="button is-white" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank">
+      <span class="icon"><i class="fa fa-linkedin"></i></span>
+    </a>&nbsp; {% endif %} {% if site.twitter %}
+        <a class="button is-white" href="https://twitter.com/{{ site.twitter }}" target="_blank">
+      <span class="icon"><i class="fa fa-twitter"></i></span>
+    </a> {% endif %} {% if site.github %}
+        <a class="button is-white" href="https://github.com/{{ site.github }}" target="_blank">
+      <span class="icon"><i class="fa fa-github"></i></span>
+    </a>&nbsp; {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

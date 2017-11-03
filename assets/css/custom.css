@@ -1,0 +1,74 @@
+.is-full-width {
+  width: 100%;
+}
+
+.is-transparent {
+  background-color: transparent;
+}
+
+.is-semi-transparent {
+  background-color: rgba(255,255,255,0.8);
+}
+
+.is-white-bg {
+	background-color: #FFF;
+}
+
+.is-jaaga-red {
+	color: #F05023;
+}
+
+.is-jaaga-blue {
+	color: #164A91;
+}
+
+.is-dna {
+	color: #F78F1E;
+}
+
+.is-study {
+	color: #0072B9;
+}
+
+.is-startup {
+	color: #A00B4B;
+}
+
+.is-startup > a,navbar-item,navbar-link {
+}
+
+.is-white {
+	color: white;
+}
+
+.has-top-padding {
+	padding-top: 1em;
+}
+
+.has-bottom-padding {
+	padding-bottom: 0.8em;
+}
+
+.has-no-bottom-padding {
+	padding-bottom: -1em;
+  margin-bottom: -1em;
+}
+
+.has-no-top-margin {
+	margin-top: -2em;
+  padding-top: -1em;
+}
+
+.is-match-navbar {
+	margin-left: -1rem;
+	margin-right: -1rem;
+}
+
+.has-no-border {
+	border: none;
+}
+
+.has-side-padding {
+  padding-left: 3em;
+  padding-right: 3em;
+}
