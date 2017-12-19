@@ -1,7 +1,7 @@
 ---
 layout: dna
 title: DNA Projects
-description:
+description: 
 feature_image: /assets/images/dna-projects.jpg
 tags:
 published: true

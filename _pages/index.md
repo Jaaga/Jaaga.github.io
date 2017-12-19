@@ -29,7 +29,7 @@ permalink: /
   </div>
 </div>
 
-<div class="columns is-multiline">
+<!-- <div class="columns is-multiline">
   <div class="column is-4">
       <a class="twitter-timeline" data-dnt="true" data-height="450" href="https://twitter.com/jaagarnaut?ref_src=twsrc%5Etfw">Tweets by jaagarnaut</a>
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -41,4 +41,4 @@ permalink: /
   <div class="column is-4">
       <div class="fb-page" data-href="https://www.facebook.com/jaagastartup/" data-tabs="timeline" data-height="430" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/jaagastartup/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/jaagastartup/">Jaaga Startup</a></blockquote></div>
   </div>
-</div>
+</div> -->

@@ -5,9 +5,8 @@ description: "These ethics guide the community"
 permalink: "/ethics/"
 ---
 
-_Last modified: March 26, 2015_
+_Last modified: November 15, 2017_
 
-[Download PDF version](https://drive.google.com/file/d/0B6JZdk8HO78jVEUtUEdZeFhLN3M/view?usp=sharing)
 
 ### Policies
 

@@ -4,11 +4,10 @@ title: "Privacy Policy"
 permalink: "/privacy/"
 ---
 
-_Last modified: March 8, 2016_
+_Last modified: November 15, 2017_
 
-[Download PDF version](https://drive.google.com/file/d/0B6JZdk8HO78jemc4enNhQ2pqNFk/view?usp=sharing)
 
-We, at Jaaga, recognize that when you choose to provide us with information value your privacy and safeguarding your privacy is important to us.  We, at Jaaga know and recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. This Privacy Policy (“Policy”) covers all the information shared by You with Us on the website [startup.jaaga.in](http://startup.jaaga.in) (and also [community.jaaga.in](http://community.jaaga.in)) as well as in person or through any other mode..This Privacy Policy and the corresponding terms and conditions of use are applicable to You, if You are an existing User or intend to Use our services in future. Please use the website only if You agree to the privacy policy and terms and conditions. In the event that You disagree with any of them, please refrain from using the services on the Website.
+We, at Jaaga, recognize that when you choose to provide us with information value your privacy and safeguarding your privacy is important to us.  We, at Jaaga know and recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. This Privacy Policy (“Policy”) covers all the information shared by You with Us on the website [jaaga.in](http://jaaga.in) (and also [community.jaaga.in](http://community.jaaga.in)) as well as in person or through any other mode..This Privacy Policy and the corresponding terms and conditions of use are applicable to You, if You are an existing User or intend to Use our services in future. Please use the website only if You agree to the privacy policy and terms and conditions. In the event that You disagree with any of them, please refrain from using the services on the Website.
 
 This Privacy Policy covers all the information shared by You. This policy enunciates the information gathering and dissemination that we conduct.
 

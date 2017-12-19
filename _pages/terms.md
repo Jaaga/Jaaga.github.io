@@ -4,14 +4,12 @@ title: "Terms and Conditions"
 permalink: "/terms/"
 ---
 
-_Last modified: March 8, 2016_
+_Last modified: November 15, 2017_
 
-[Download PDF version](https://drive.google.com/file/d/0B6JZdk8HO78jS0IzQXB6OENGZXc/view?usp=sharing)
-
-Thank you for visiting our website [startup.jaaga.in](http://startup.jaaga.in) or [community.jaaga.in](http://community.jaaga.in) (“Website"). While we finish your personal tasks, please spare the time to read the following terms and conditions carefully. By using our website, you agree to be bound by these terms and conditions and our privacy policy.
+Thank you for visiting our website [jaaga.in](http://jaaga.in) or [community.jaaga.in](http://community.jaaga.in) (“Website"). While we finish your personal tasks, please spare the time to read the following terms and conditions carefully. By using our website, you agree to be bound by these terms and conditions and our privacy policy.
 
 ### Definitions
-“Jaaga ”, “Us”, “We”, or “Our” refers to [startup.jaaga.in](http://startup.jaaga.in) or [community.jaaga.in](http://community.jaaga.in) and includes our affiliates, as the case may be ‘'You’', “User/s” means and includes a visitor, member/subscriber (paid or unpaid),  an existing entity or start-up who has in the past or is currently associated/registered with Us, an Affiliate, an Expert or Fund or any other entity associated thereto, using our website, services and facilities as the case maybe; “Affiliate” refers to an individual or entity who is associated with Jaaga  for the purposes of providing a coworking space and related services.
+“Jaaga ”, “Us”, “We”, or “Our” refers to [jaaga.in](http://jaaga.in) or [community.jaaga.in](http://community.jaaga.in) and includes our affiliates, as the case may be ‘'You’', “User/s” means and includes a visitor, member/subscriber (paid or unpaid),  an existing entity or start-up who has in the past or is currently associated/registered with Us, an Affiliate, an Expert or Fund or any other entity associated thereto, using our website, services and facilities as the case maybe; “Affiliate” refers to an individual or entity who is associated with Jaaga  for the purposes of providing a coworking space and related services.
 
 “Coworking Space/Incubator” refers to the Premises that is made available by Us or any our approved Affiliate/s for the use of activities as permitted by Us. “Services” means and includes provision of Premises and integrated systems of communication and assistance including the use of the website. “Data” refers to all that information, documents etc., provided by You. This data may be provided to us through our web sites, telephone, e-mail, registration forms, or other similar channels.
 
